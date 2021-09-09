@@ -1,0 +1,12 @@
+.Form {
+  border: 2px solid rgb(55, 80, 56);
+  padding: 10px;
+  width: 300px;
+}
+.FormLabel {
+  margin-bottom: 15px;
+  display: block;
+}
+.FormInput {
+  display: block;
+}
